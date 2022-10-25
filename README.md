@@ -19,3 +19,6 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Solução finalizada
+Ao finalizar o desafio, inclui a formatação da moeda corrente no Brasil, utilizando o formato R$ 123,45
